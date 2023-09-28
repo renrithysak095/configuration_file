@@ -7,8 +7,6 @@ spring:
           jwk-set-uri: http://localhost:1234/auth/realms/mini_project02/protocol/openid-connect/certs
   application:
     name: keycloak-client
-server:
-  port: 8181
 keycloak:
   realm: mini_project02
   resource: rithysak-client

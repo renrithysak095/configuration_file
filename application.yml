@@ -15,7 +15,7 @@ keycloak:
     username: 'rithysak'
     password: 'rithysak'
     client-id: 'rithysak-client'
-    secret: '4FGWkpQPEWrAgaj9smqaFC230RrQJ8Sj'
+    secret: 'rJcFcQpqLkHwYLEDR7hE30FMHrJfBLog'
     provider: secret
 logging:
   level:
